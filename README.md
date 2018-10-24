@@ -27,13 +27,13 @@ You are always welcome and encouraged to drop a meeting on my calendar (you don'
 
 If you want or need to talk to me, and my schedule is not open, DM me on Slack and I'll make time.
 
-## Product/Software Engineering
+## Process and Software Engineering
 
-People build software and products, not the other way around. As such, I prefer to adjust process to meet the needs and goals of our people. This frees us to do our best work for the company we work for. At the end of the day, this is what I value:
+People build software and products, not the other way around. As such, I prefer to adjust process to meet the needs and goals of our people. This frees us to do our best work for the company we work for. 
 
 * I value transparency about what happened, what's happening, and what's going to happen.
-* I value growth and learning. Fail fast and learn. Experiment with clear goals and tight feedback loops. Help others learn by sharing your own journey and keeping a low ego.
-* I value your time and will do my best to ensure it is not wasted. I expect the same from you. I don't want you to do any process that is neither beneficial to you nor required by law, policy, etc.
+* I value growth and learning. Experiment with clear goals and tight feedback loops. Share your learnings with others.
+* I value your time and will do my best to ensure it is not wasted. I expect the same from you.
 * I value proactivity and self-organization. I have no desire to make every decision myself, I'm sure you don't want me to either.
 * I value stability and consistency.
 * I value critical thinking and rigor. Nothing is sacred and we don't do anything *"because we've always done it that way"*.
