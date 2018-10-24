@@ -52,9 +52,9 @@ I prefer direct feedback. I'm committed to providing you clear and timely feedba
 
 Three dimensions are required for people to continue to give you feedback:
 
-* Safety (unlikelihood of being punished for giving feedback)
-* Effort (the amount of work in order to give feedback)
-* Benefit (likelihood that giving you feedback will materially impact your behavior)
+* Safety (no punishment for giving feedback; high)
+* Effort (amount of work necessary to give feedback; low)
+* Benefit (feedback will materially impact your behavior; high)
 
 Let me know if I don't do well on any of these three dimensions.
 
