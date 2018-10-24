@@ -1,6 +1,6 @@
 # My Leadership Manual
 
-Hi, I'm Jason! (If this feels weird at first, I totally get it).
+Hi, I'm Jason!
 
 I'm excited to be working with you and consider this a convenient way to share my management style, philosophy, and expectations as we work together at [Anvyl](https://anvyl.com). I look forward to doing amazing things with you and the rest of the team!
 
