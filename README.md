@@ -2,7 +2,7 @@
 
 Hi, I'm Jason! (If this feels weird at first, I totally get it).
 
-I'm excited to be working with you and consider this a convenient way to share my management style, philosophy, and expectations as we work together at Anvyl. I look forward to doing amazing things with you and the rest of the team.
+I'm excited to be working with you and consider this a convenient way to share my management style, philosophy, and expectations as we work together at [Anvyl](https://anvyl.com). I look forward to doing amazing things with you and the rest of the team!
 
 This is a living document, which will change. Please let me know if you have any feedback on how to make this more useful.
 
