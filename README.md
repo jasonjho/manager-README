@@ -48,7 +48,7 @@ I will work to be as open as possible about what's going on with our team and th
 
 More than anything, candid and compassionate feedback is central to a cohesive high-functioning team. I fully embrace [radical candor](https://www.radicalcandor.com/) and encourage you to take [courage over comfort](https://brenebrown.com/blog/2018/03/13/courage-comfort-rumbling-shame-accountability-failure-work/).
 
-I prefer to receive direct feedback. I'm committed to providing you clear and timely feedback, and wish you do the same for me. 
+I prefer direct feedback. I'm committed to providing you clear and timely feedback, and wish you do the same for me. 
 
 Three dimensions are required for people to continue to give you feedback:
 
