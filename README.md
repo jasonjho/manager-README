@@ -13,7 +13,7 @@ I am primarily here to do 2 things:
 * To provide context
 * To engage, retain, and grow amazing talent (that's you!)
 
-**I'm here to help, empower and support you, to set context for what you're working on, and to advocate for you and the team with the rest of the company.**
+I'm here to help, empower and support you, to set context for what you're working on, and to advocate for you and the team with the rest of the company.
 
 ## Leadership Style
 
