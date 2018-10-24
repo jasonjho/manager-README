@@ -15,15 +15,11 @@ I am primarily here to do 2 things:
 
 **I'm here to help, empower and support you, to set context for what you're working on, and to advocate for you and the team with the rest of the company.**
 
-*Goal*: I can take off for a month and it really shouldn’t make a difference.
-
 ## Leadership Style
 
 I'm a believer in [Servant Leadership](https://en.wikipedia.org/wiki/Servant_leadership). I serve you, not the other way around. I'm always available to assist. Ask me.
 
 You work for the company, not for me. Optimize for the company. I'm making mistakes, and I want to improve just like you. Hold me accountable. Tell me. I view our working relationship as an alliance.
-
-I encourage and expect debate, differences in opinoin, and 
 
 ## My Availability
 
