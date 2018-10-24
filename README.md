@@ -34,9 +34,9 @@ People build software and products, not the other way around. As such, I prefer 
 * I value transparency about what happened, what's happening, and what's going to happen.
 * I value growth and learning. Experiment with clear goals and tight feedback loops. Share your learnings with others.
 * I value your time and will do my best to ensure it is not wasted. I expect the same from you.
-* I value proactivity and self-organization. I have no desire to make every decision myself, I'm sure you don't want me to either.
+* I value proactivity and self-organization. I don't make all the decisions. I'm sure you don't want me to either.
 * I value stability and consistency.
-* I value critical thinking and rigor. Nothing is sacred and we don't do anything *"because we've always done it that way"*.
+* I value critical thinking and rigor. We don't do anything *"because we've always done it that way"*.
 * I value intentionality, we have too much to do for any of it to be random.
 * I value empathy. Having empathy for your co-workers will help us to build strong teams.
 
