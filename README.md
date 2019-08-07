@@ -8,18 +8,18 @@ This is a living document, which will change. Please let me know if you have any
 
 ## My Job
 
-I am primarily here to do 2 things:
+I'm here to do 2 things:
 
 * To provide context
-* To engage, retain, and grow amazing talent (that's you!)
+* To engage, retain, and grow an amazing team
 
-I'm here to help, empower and support you, to set context for what you're working on, and to advocate for you and the team with the rest of the company.
+I'm here to set context for what you're working on as well as to advocate for you to rest of the company.
 
 ## Leadership Style
 
-I'm a believer in [Servant Leadership](https://en.wikipedia.org/wiki/Servant_leadership). I serve you, not the other way around. I'm always available to assist. Ask me.
+I'm a believer in [Servant Leadership](https://en.wikipedia.org/wiki/Servant_leadership). I serve you, not the other way around. I'm always available to assist. Please ask me anything.
 
-You work for the company, not for me. Optimize for the company. I'm making mistakes, and I want to improve just like you. Hold me accountable. Tell me. I view our working relationship as an alliance.
+You work for the company, not for me. Optimize for the company. I'll be making mistakes, so I want to continuously improve. Please hold me accountable. Our relationship is an alliance.
 
 ## My Availability
 
@@ -29,16 +29,11 @@ If you want or need to talk to me, and my schedule is not open, DM me on Slack a
 
 ## Process and Software Engineering
 
-People build software and products, not the other way around. As such, I prefer to adjust process to meet the needs and goals of our people. This frees us to do our best work for the company we work for. 
+People build software and products. Therefore, we are always seeking to continuously improve process to meet the needs and goals of our people. This frees us to do our best work.
 
-* I value transparency about what happened, what's happening, and what's going to happen.
-* I value growth and learning. Experiment with clear goals and tight feedback loops. Share your learnings with others.
-* I value your time and will do my best to ensure it is not wasted. I expect the same from you.
-* I value proactivity and self-organization. I don't make all the decisions. I'm sure you don't want me to either.
-* I value stability and consistency.
-* I value critical thinking and rigor. We don't do anything *"because we've always done it that way"*.
-* I value intentionality, we have too much to do for any of it to be random.
-* I value empathy. Having empathy for your co-workers will help us to build strong teams.
+* We experiment with clear goals, tight feedback loops, and share our learnings with others.
+* We value proactivity and self-organization.
+* We value critical thinking and rigor. We don't do anything *"because we've always done it that way"*.
 
 ## Transparency
 
@@ -46,17 +41,9 @@ I will work to be as open as possible about what's going on with our team and th
 
 ## Feedback
 
-More than anything, candid and compassionate feedback is central to a cohesive high-functioning team. I fully embrace [radical candor](https://www.radicalcandor.com/) and encourage you to take [courage over comfort](https://brenebrown.com/blog/2018/03/13/courage-comfort-rumbling-shame-accountability-failure-work/).
+I fully embrace [radical candor](https://www.radicalcandor.com/) and encourage you to take [courage over comfort](https://brenebrown.com/blog/2018/03/13/courage-comfort-rumbling-shame-accountability-failure-work/).
 
 I prefer direct feedback. I'm committed to providing you clear and timely feedback, and wish you to do the same for me. 
-
-Three dimensions are required for people to continue to give you feedback:
-
-* Safety (no punishment for giving feedback; high)
-* Effort (amount of work necessary to give feedback; low)
-* Benefit (feedback will materially impact your behavior; high)
-
-Let me know if I don't do well on any of these three dimensions.
 
 ## 1:1 Meetings
 
